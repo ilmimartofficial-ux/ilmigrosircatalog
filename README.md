@@ -39,12 +39,7 @@ Aplikasi katalog harga grosir berbasis web untuk **ILMIGROSIR** — *Jual Kembal
 | 💬 WhatsApp | Tombol order langsung ke WhatsApp |
 | ⚙️ Admin Panel | Upload database produk (Excel/CSV) |
 
-## 🔐 Info Admin
 
-- **Password admin**: `nopal123`
-- **Nomor WA**: +62 853-7337-3233
-- **Format upload**: `.xlsx`, `.xls`, `.csv`
-- **Kolom wajib**: Kode Item, Nama Item, Jenis, Konversi, Satuan, Harga Retail, Harga Grosir
 
 ## 📱 Tampilan
 
